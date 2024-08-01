@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\bin\Debug\net8.0\E1.exe
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\bin\Debug\net8.0\E1.deps.json
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\bin\Debug\net8.0\E1.runtimeconfig.json
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\bin\Debug\net8.0\E1.dll
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\bin\Debug\net8.0\E1.pdb
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.AssemblyInfo.cs
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.dll
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\refint\E1.dll
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.pdb
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\E1.genruntimeconfig.cache
+C:\Users\USER\Documents\Programa-o-Orientada-a-Objetos\E1\E1\obj\Debug\net8.0\ref\E1.dll
