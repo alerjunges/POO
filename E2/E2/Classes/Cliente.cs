@@ -38,7 +38,7 @@ namespace E2.Classes
             Console.WriteLine("Cliente falando");
         }
 
-        //Método específico que simula a compra de um produto
+        //Método que simula a compra de um produto
         public void ComprarProduto()
         {
             Console.WriteLine($"{_nome} está comprando um produto.");
