@@ -1,50 +1,28 @@
-﻿namespace E2.Classes
-{
-    //Classe abstrata
-    public abstract class Pessoa
-    {
-        protected int _id;
-        protected string _nome;
-        protected string _endereco;
-        protected string _telefone;
+﻿using System;
+using E2.Interfaces;
 
-        //Construtor para inicializar os campos
+namespace E2.Classes
+{
+    public abstract class Pessoa : IPessoa
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Endereco { get; set; }
+        public string Telefone { get; set; }
+
         public Pessoa(int id, string nome, string endereco, string telefone)
         {
-            _id = id;
-            _nome = nome;
-            _endereco = endereco;
-            _telefone = telefone;
+            Id = id;
+            Nome = nome;
+            Endereco = endereco;
+            Telefone = telefone;
         }
 
-        public int Id
-        {
-            get { return _id; }
-            set { _id = value; }
-        }
-
-        public string Nome
-        {
-            get { return _nome; }
-            set { _nome = value; }
-        }
-
-        public string Endereco
-        {
-            get { return _endereco; }
-            set { _endereco = value; }
-        }
-
-        public string Telefone
-        {
-            get { return _telefone; }
-            set { _telefone = value; }
-        }
-
-        //Métodos abstratos
         public abstract string IdUnico();
-        public abstract void Andar();
-        public abstract void Falar();
+
+        public virtual void ExibirInformacoes()
+        {
+            Console.WriteLine($"Nome: {Nome}, Endereço: {Endereco}, Telefone: {Telefone}");
+        }
     }
 }
-

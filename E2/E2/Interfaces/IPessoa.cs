@@ -1,8 +1,5 @@
-﻿using System;
-
-namespace E2.Interfaces
+﻿namespace E2.Interfaces
 {
-    // Interface IPessoa que define um contrato para classes que representam pessoas
     public interface IPessoa
     {
         int Id { get; set; }
@@ -11,8 +8,6 @@ namespace E2.Interfaces
         string Telefone { get; set; }
 
         string IdUnico();
-        void Andar();
-        void Falar();
         void ExibirInformacoes();
     }
 }
