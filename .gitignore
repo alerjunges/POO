@@ -10,3 +10,5 @@ Playlist/Playlist/bin/
 Playlist/Playlist/obj/
 Revisao/.vs/
 Revisao/Revisao/obj/
+*.bin
+*.dll
